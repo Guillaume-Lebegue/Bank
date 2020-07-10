@@ -1,0 +1,14 @@
+bank:
+  economy:
+    symbol: "$"
+    format: "#,##0.00"
+  commands:
+    islandbalance:
+      description: "Get solde of player's island"
+      answer: "Island solde: [balance]"
+    adminislandreset:
+      description: "Reset island account"
+      answer: "Island account was reset"
+  error:
+    islandnoaccount: "&cIsland has no account. You should talk about this to an administrator"
+    cantcreateaccount: "&cCould not create account"

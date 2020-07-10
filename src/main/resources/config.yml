@@ -1,0 +1,11 @@
+# Config file for Bank addon
+
+# Disabled Game Mode Addons
+# Bank will use regular economy for these addons
+disabled-gamemodes: []
+
+starting-balance: 100.0
+
+max-money: 10000000000000.0
+
+currency-symbol: '$'

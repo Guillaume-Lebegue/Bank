@@ -1,0 +1,11 @@
+name: Bank
+main: world.bentobox.bank.BankAddon
+version: ${version}${build.number}
+repository: "Guillaume-Lebegue/Bank"
+metrics: true
+icon: GOLD_BLOCK
+
+authors:
+  - Guillaume-Lebegue
+
+softdepend: BSkyBlock, AcidIsland, CaveBlock, SkyGrid, AOneBlock
